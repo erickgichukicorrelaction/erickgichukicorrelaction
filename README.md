@@ -11,7 +11,7 @@
     <tr>
       <td style="text-align: center; border: none;">
         <a href="http://www.github.com/erickgichukicorrelaction">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickGichuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickgichukicorrelaction&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
         </a>
       </td>
     </tr>
