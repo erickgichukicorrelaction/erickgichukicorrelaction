@@ -6,9 +6,10 @@
 
 <h2 align="center">A Glimpse into a Standard Work Day</h2>
 
-
+```
 Python       3hr 30mins █████████████░░░░░░░░░░░░░░░░░   40.00 %
 JavaScript   2hr 30mins ███████░░░░░░░░░░░░░░░░░░░░░░░   22.00 %
 DevOps       120 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░   19.00 %
 Cloud        50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 Linux        40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    8.00 %
+```
