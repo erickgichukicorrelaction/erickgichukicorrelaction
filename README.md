@@ -31,7 +31,7 @@ Linux        40 mins    █░░░░░░░░░░░░░░░░░�
     <tr>
       <td style="text-align: center; border: none;">
         <a href="http://www.github.com/erickgichukicorrelaction">
-          <img src="https://github-readme-stats.vercel.app/api?username=erickgichukicorrelaction&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="erickgichukicorrelaction's GitHub stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=erickgichukicorrelaction&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="erick's GitHub stats" />
         </a>
       </td>
       <td style="text-align: center; border: none;">
