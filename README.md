@@ -13,3 +13,16 @@ DevOps       120 mins   █████░░░░░░░░░░░░░�
 Cloud        50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 Linux        40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    8.00 %
 ```
+<h2 align="center">My GitHub Stats</h2>
+
+<div align="center" style="margin: 40px auto; width: 80%;">
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="text-align: center; border: none;">
+        <a href="http://www.github.com/erickgichukicorrelaction">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickGichuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
