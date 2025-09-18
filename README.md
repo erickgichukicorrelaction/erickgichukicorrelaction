@@ -17,7 +17,7 @@
     </tr>
   </table>
 </div>
-<div align="center">
+<!-- <div align="center">
   <table style="margin: 40px auto; width: 80%; border-collapse: collapse;">
     <tr>
       <td style="text-align: center; border: none;">
@@ -32,7 +32,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 
 <h2 align="center">A Glimpse into a Standard Day</h2>
